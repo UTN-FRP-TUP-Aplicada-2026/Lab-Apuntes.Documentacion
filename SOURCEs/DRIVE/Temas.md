@@ -44,3 +44,14 @@
 
 ## Tema 3.  Integridad referencial y restricciones(constraint) - Mapeo de Herencia
 
+
+  > - **Apuntes**
+  >
+  >    [Integridad y restricciones - herencia](https://docs.google.com/document/d/1ZkB2ylhtA6OHwBaDriGWs_FJ4-voSNAG/preview) 
+  >
+  > - **Práctica**
+  >
+  >    [Guia 2.1 Integridad referencial, restricciones.Mapeo composición y agregación](https://docs.google.com/document/d/1Wjnpf8ePnEhgrUPCFvDrfDwI5O7qO7E6/preview)
+  >
+  >    [Guia 2.2 Integridad referencial, restricciones.Mapeo composición y agregación](https://docs.google.com/document/d/1Wjnpf8ePnEhgrUPCFvDrfDwI5O7qO7E6/preview)
+
